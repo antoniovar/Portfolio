@@ -1,0 +1,83 @@
+.NavBar{
+  background-color: #1f2937;
+  padding: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: baseline;
+  position:fixed;
+  top:0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+} 
+.container{
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+.hire{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap:1rem;
+  color: inherit;
+    text-decoration: inherit;
+}
+.hire :hover{
+  text-decoration: underline;
+  text-underline-offset: 0.4rem;
+}
+.info{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: baseline;
+}
+.info-links{
+  margin-left: 0.5rem;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap:1rem;
+}
+.info-links :hover{
+  text-decoration: underline;
+  text-underline-offset: 0.4rem;
+}
+.navBar-link{
+  color: rgba(255, 255, 255, 0.629);
+  text-decoration: none;
+} 
+.h1-navbar{
+  font-size: 1.25rem;
+  color:white;
+}
+.h1-navbar2{
+  display:none
+}
+
+@media screen and (max-width: 761px) {
+    .info-links{
+      display:none;
+    }
+    .hire{
+      display:none;
+    }
+    .h1-navbar2{
+      display: flex;
+      font-size: 1.25rem;
+      color:white;
+    }
+    .h1-navbar{
+      display:none
+    }
+    .NavBar{
+      align-items: center;
+      justify-content: center;
+    }
+}

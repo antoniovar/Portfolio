@@ -1,0 +1,83 @@
+.skills-main{
+  display:flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 7rem;
+}
+
+.fa-circle-check{
+  color: #10b981;
+}
+.fa-microchip{
+  margin-top: 2rem;
+  margin-bottom: -0.2rem;
+  font-size: 2.5rem;
+}
+
+.list{
+  list-style: none;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3rem;
+  margin-left: -1em;
+}
+
+.element{
+  background-color: #1f2937;
+  width: 35rem;
+  padding: 1rem;
+  margin-bottom: 0.6rem; 
+}
+
+@media screen and (max-width:1364px) {
+  .element{
+    background-color: #405468;
+    width: 21rem;
+    padding: 1rem;
+    margin-bottom: 0.6rem; 
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .list{
+    list-style: none;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    margin-left: -1em;
+  }
+  .element{
+    background-color: #405468;
+    width: 22rem;
+    padding: 1rem;
+    margin-bottom: 0.6rem; 
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .list{
+    list-style: none;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-left: -1em;
+  }
+  .element{
+    background-color: #405468;
+    width: 14rem;
+    padding: 1rem;
+    margin-bottom: 0.6rem; 
+  }
+}
+
+

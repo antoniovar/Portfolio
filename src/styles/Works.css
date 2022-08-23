@@ -1,0 +1,22 @@
+.main{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  margin-bottom: 7rem;
+}
+.fa-laptop-code{
+  margin-top: 2rem;
+  margin-bottom: -0.2rem;
+  font-size: 2.5rem;
+}
+.works-title{
+  margin-bottom: -0.5rem;
+}
+.works-paragraph{
+  max-width: 40rem;
+  margin-bottom: 2.5rem;
+  color: rgba(255, 255, 255, 0.629);
+  text-align: center;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}

@@ -1,0 +1,33 @@
+.certifications-main{
+  display:flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 7rem;
+}
+.certifications-title{
+  margin-bottom: -0.5rem;
+}
+.certifications-paragraph{
+  max-width: 40rem;
+  margin-bottom: 2.5rem;
+  color: rgba(255, 255, 255, 0.629);
+  text-align: center;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.fa-folder-plus{
+  margin-top: 2rem;
+  margin-bottom: -0.2rem;
+  font-size: 2.5rem;
+}
+
+.certifications-group{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}

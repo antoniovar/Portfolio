@@ -1,0 +1,95 @@
+.hire-main{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+}
+.fa-briefcase{
+  margin-top: 2rem;
+  margin-bottom: -0.2rem;
+  font-size: 2.5rem;
+}
+
+.inputs{
+  background-color: #1f2937;
+  color:white;
+  border: none;
+  width: 20rem;
+  height: 2rem;
+  margin-bottom: 1.2rem;
+}
+.message{
+  max-width: 42rem;
+  min-width: 42rem;
+  min-height: 15rem ;
+  
+} 
+
+.hire-title{
+  margin-bottom: -0.5rem;
+}
+.hire-paragraph{
+  margin-bottom: 2.5rem;
+  color: rgba(255, 255, 255, 0.629);
+  text-align: center;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.form{
+  display:flex;
+  flex-direction: column;
+}
+.form2{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap:2rem;
+}
+.labelInput{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+}
+
+label{
+  margin-bottom: 0.6rem;
+}
+.button{
+  color:white;
+  font-weight: bold;
+  font-size: 1.2rem;
+  background-color: #10b981;
+  width: 20rem;
+  height: 3rem;
+  border-radius: 9999px;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+
+}
+.button:hover{
+  cursor: pointer;
+  background-color: #2e9170;
+}
+
+.button-div{
+  display:flex;
+  justify-content: center;
+}
+
+@media screen and (max-width: 761px) {
+  .form2{
+    flex-direction: column;
+    gap:0.7rem
+  }
+  form{
+    gap:0.7rem;
+  }
+  .message{
+    max-width: 100%;
+    min-width: 100%;
+    min-height: 15rem ;
+    
+  } 
+}

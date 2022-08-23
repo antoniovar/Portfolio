@@ -1,0 +1,53 @@
+.each-main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem;
+  border: solid rgba(255, 255, 255, 0.373) 3px;
+  width: 12rem;
+  height: 17rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.part1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: baseline; 
+}
+.each-name{
+  font-size: 1.8rem;
+  margin-top: 0rem;
+  margin-bottom: 0.6rem;
+}
+.each-description{
+  font-size: 0.9rem;
+  text-align: center;
+  height: 1rem;
+}
+.each-company{
+  font-size: 1.2rem;
+}
+.download{
+  color: white;
+  font-weight: bold;
+  background-color: #10b981;
+  padding: 0.7rem;
+  margin-top: 1.5rem;
+  border-radius: 5%;
+  text-decoration: none;
+}
+
+.download:hover{
+  cursor: pointer;
+  background-color: #2e9170;
+}
+
+.notAvailable{
+  background-color: #974545;
+}
+.notAvailable:hover{
+  cursor: default;
+  background-color: #974545;
+}
