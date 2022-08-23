@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.7bb048a2.css",
-    "main.js": "/Portfolio/static/js/main.9e036ecf.js",
+    "main.css": "/Portfolio/static/css/main.39917a99.css",
+    "main.js": "/Portfolio/static/js/main.a8ee6d8a.js",
     "static/media/burger-website.png": "/Portfolio/static/media/burger-website.ad09898e628b5e00c8ba.png",
     "static/media/gif-searcher.png": "/Portfolio/static/media/gif-searcher.3d1c9d2b9e9b22ed3282.png",
     "static/media/me.jpeg": "/Portfolio/static/media/me.7d138810225e96e1c2be.jpeg",
@@ -12,11 +12,11 @@
     "static/media/calculator.png": "/Portfolio/static/media/calculator.cbd02cc497243f2c92ee.png",
     "static/media/to-do-list.png": "/Portfolio/static/media/to-do-list.d75205d7588e2c3736fd.png",
     "index.html": "/Portfolio/index.html",
-    "main.7bb048a2.css.map": "/Portfolio/static/css/main.7bb048a2.css.map",
-    "main.9e036ecf.js.map": "/Portfolio/static/js/main.9e036ecf.js.map"
+    "main.39917a99.css.map": "/Portfolio/static/css/main.39917a99.css.map",
+    "main.a8ee6d8a.js.map": "/Portfolio/static/js/main.a8ee6d8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bb048a2.css",
-    "static/js/main.9e036ecf.js"
+    "static/css/main.39917a99.css",
+    "static/js/main.a8ee6d8a.js"
   ]
 }
