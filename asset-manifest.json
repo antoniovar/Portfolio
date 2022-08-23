@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.39917a99.css",
+    "main.css": "/Portfolio/static/css/main.dbac274b.css",
     "main.js": "/Portfolio/static/js/main.a8ee6d8a.js",
     "static/media/burger-website.png": "/Portfolio/static/media/burger-website.ad09898e628b5e00c8ba.png",
     "static/media/gif-searcher.png": "/Portfolio/static/media/gif-searcher.3d1c9d2b9e9b22ed3282.png",
@@ -12,11 +12,11 @@
     "static/media/calculator.png": "/Portfolio/static/media/calculator.cbd02cc497243f2c92ee.png",
     "static/media/to-do-list.png": "/Portfolio/static/media/to-do-list.d75205d7588e2c3736fd.png",
     "index.html": "/Portfolio/index.html",
-    "main.39917a99.css.map": "/Portfolio/static/css/main.39917a99.css.map",
+    "main.dbac274b.css.map": "/Portfolio/static/css/main.dbac274b.css.map",
     "main.a8ee6d8a.js.map": "/Portfolio/static/js/main.a8ee6d8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.39917a99.css",
+    "static/css/main.dbac274b.css",
     "static/js/main.a8ee6d8a.js"
   ]
 }
