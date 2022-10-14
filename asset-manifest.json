@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b3b66de1.css",
+    "main.css": "/Portfolio/static/css/main.ded756b6.css",
     "main.js": "/Portfolio/static/js/main.379e4b5c.js",
     "static/media/burger_demo.gif": "/Portfolio/static/media/burger_demo.5e8b63d9a8ef00eb46b0.gif",
     "static/media/gif-searcher_demo.gif": "/Portfolio/static/media/gif-searcher_demo.f19b411b9dc7ac1617d1.gif",
@@ -13,11 +13,11 @@
     "static/media/certificado_excel_para_todos.pdf": "/Portfolio/static/media/certificado_excel_para_todos.6bab73ed97d1d2415c8f.pdf",
     "static/media/CV.pdf": "/Portfolio/static/media/CV.4f8485c1ca06f82b8c64.pdf",
     "index.html": "/Portfolio/index.html",
-    "main.b3b66de1.css.map": "/Portfolio/static/css/main.b3b66de1.css.map",
+    "main.ded756b6.css.map": "/Portfolio/static/css/main.ded756b6.css.map",
     "main.379e4b5c.js.map": "/Portfolio/static/js/main.379e4b5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3b66de1.css",
+    "static/css/main.ded756b6.css",
     "static/js/main.379e4b5c.js"
   ]
 }
