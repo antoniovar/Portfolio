@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.a9fa334d.css",
-    "main.js": "/Portfolio/static/js/main.3b77ce88.js",
-    "static/media/burger-website.png": "/Portfolio/static/media/burger-website.ad09898e628b5e00c8ba.png",
-    "static/media/gif-searcher.png": "/Portfolio/static/media/gif-searcher.3d1c9d2b9e9b22ed3282.png",
-    "static/media/me.jpeg": "/Portfolio/static/media/me.7d138810225e96e1c2be.jpeg",
+    "main.js": "/Portfolio/static/js/main.7c38c8af.js",
+    "static/media/burger_demo.gif": "/Portfolio/static/media/burger_demo.5e8b63d9a8ef00eb46b0.gif",
+    "static/media/gif-searcher_demo.gif": "/Portfolio/static/media/gif-searcher_demo.f19b411b9dc7ac1617d1.gif",
+    "static/media/ecommerce_demo.gif": "/Portfolio/static/media/ecommerce_demo.fc4dff7ed8f8badfc0bf.gif",
+    "static/media/demo_task.gif": "/Portfolio/static/media/demo_task.d6215f8cfa1b8fa78c77.gif",
     "static/media/certificado_analisis_datos_python.pdf": "/Portfolio/static/media/certificado_analisis_datos_python.a041d467601ddb1664fe.pdf",
     "static/media/certificado_cienciaDatos_aprendizajeAutomatico_python.pdf": "/Portfolio/static/media/certificado_cienciaDatos_aprendizajeAutomatico_python.33a43799056befd132fb.pdf",
     "static/media/certificado_python_principiantes.pdf": "/Portfolio/static/media/certificado_python_principiantes.90a0f70bfd11ff449fe2.pdf",
     "static/media/certificado_excel_para_todos.pdf": "/Portfolio/static/media/certificado_excel_para_todos.6bab73ed97d1d2415c8f.pdf",
-    "static/media/CV.pdf": "/Portfolio/static/media/CV.302e58ceb301fa20ad67.pdf",
-    "static/media/calculator.png": "/Portfolio/static/media/calculator.e07c21b9add29583df74.png",
-    "static/media/to-do-list.png": "/Portfolio/static/media/to-do-list.d75205d7588e2c3736fd.png",
+    "static/media/me2.jpeg": "/Portfolio/static/media/me2.5f3864ffff7d49279897.jpeg",
+    "static/media/CV.pdf": "/Portfolio/static/media/CV.4f8485c1ca06f82b8c64.pdf",
     "index.html": "/Portfolio/index.html",
     "main.a9fa334d.css.map": "/Portfolio/static/css/main.a9fa334d.css.map",
-    "main.3b77ce88.js.map": "/Portfolio/static/js/main.3b77ce88.js.map"
+    "main.7c38c8af.js.map": "/Portfolio/static/js/main.7c38c8af.js.map"
   },
   "entrypoints": [
     "static/css/main.a9fa334d.css",
-    "static/js/main.3b77ce88.js"
+    "static/js/main.7c38c8af.js"
   ]
 }
