@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.ded756b6.css",
-    "main.js": "/Portfolio/static/js/main.379e4b5c.js",
+    "main.css": "/Portfolio/static/css/main.b268ac3c.css",
+    "main.js": "/Portfolio/static/js/main.26707571.js",
     "static/media/burger_demo.gif": "/Portfolio/static/media/burger_demo.5e8b63d9a8ef00eb46b0.gif",
     "static/media/gif-searcher_demo.gif": "/Portfolio/static/media/gif-searcher_demo.f19b411b9dc7ac1617d1.gif",
     "static/media/ecommerce_demo.gif": "/Portfolio/static/media/ecommerce_demo.fc4dff7ed8f8badfc0bf.gif",
     "static/media/demo_task.gif": "/Portfolio/static/media/demo_task.d6215f8cfa1b8fa78c77.gif",
+    "static/media/Informe-Linguaskill.pdf": "/Portfolio/static/media/Informe-Linguaskill.c90faffcaa1834c87bd5.pdf",
     "static/media/me.jpeg": "/Portfolio/static/media/me.e8d1659073d79ecd4f01.jpeg",
     "static/media/certificado_analisis_datos_python.pdf": "/Portfolio/static/media/certificado_analisis_datos_python.a041d467601ddb1664fe.pdf",
     "static/media/certificado_cienciaDatos_aprendizajeAutomatico_python.pdf": "/Portfolio/static/media/certificado_cienciaDatos_aprendizajeAutomatico_python.33a43799056befd132fb.pdf",
@@ -13,11 +14,11 @@
     "static/media/certificado_excel_para_todos.pdf": "/Portfolio/static/media/certificado_excel_para_todos.6bab73ed97d1d2415c8f.pdf",
     "static/media/CV.pdf": "/Portfolio/static/media/CV.4f8485c1ca06f82b8c64.pdf",
     "index.html": "/Portfolio/index.html",
-    "main.ded756b6.css.map": "/Portfolio/static/css/main.ded756b6.css.map",
-    "main.379e4b5c.js.map": "/Portfolio/static/js/main.379e4b5c.js.map"
+    "main.b268ac3c.css.map": "/Portfolio/static/css/main.b268ac3c.css.map",
+    "main.26707571.js.map": "/Portfolio/static/js/main.26707571.js.map"
   },
   "entrypoints": [
-    "static/css/main.ded756b6.css",
-    "static/js/main.379e4b5c.js"
+    "static/css/main.b268ac3c.css",
+    "static/js/main.26707571.js"
   ]
 }
