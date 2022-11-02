@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f71308bb.css",
-    "main.js": "/Portfolio/static/js/main.d7689914.js",
+    "main.css": "/Portfolio/static/css/main.63148b3d.css",
+    "main.js": "/Portfolio/static/js/main.f3f9e814.js",
     "static/media/burger_demo.gif": "/Portfolio/static/media/burger_demo.5e8b63d9a8ef00eb46b0.gif",
     "static/media/gif-searcher_demo.gif": "/Portfolio/static/media/gif-searcher_demo.f19b411b9dc7ac1617d1.gif",
     "static/media/ecommerce_demo.gif": "/Portfolio/static/media/ecommerce_demo.fc4dff7ed8f8badfc0bf.gif",
@@ -14,11 +14,11 @@
     "static/media/certificado_excel_para_todos.pdf": "/Portfolio/static/media/certificado_excel_para_todos.6bab73ed97d1d2415c8f.pdf",
     "static/media/CV.pdf": "/Portfolio/static/media/CV.f4cc3b64cb5c4d7769e4.pdf",
     "index.html": "/Portfolio/index.html",
-    "main.f71308bb.css.map": "/Portfolio/static/css/main.f71308bb.css.map",
-    "main.d7689914.js.map": "/Portfolio/static/js/main.d7689914.js.map"
+    "main.63148b3d.css.map": "/Portfolio/static/css/main.63148b3d.css.map",
+    "main.f3f9e814.js.map": "/Portfolio/static/js/main.f3f9e814.js.map"
   },
   "entrypoints": [
-    "static/css/main.f71308bb.css",
-    "static/js/main.d7689914.js"
+    "static/css/main.63148b3d.css",
+    "static/js/main.f3f9e814.js"
   ]
 }
