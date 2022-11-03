@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.63148b3d.css",
-    "main.js": "/Portfolio/static/js/main.f3f9e814.js",
+    "main.js": "/Portfolio/static/js/main.6f8bd33e.js",
     "static/media/burger_demo.gif": "/Portfolio/static/media/burger_demo.5e8b63d9a8ef00eb46b0.gif",
     "static/media/gif-searcher_demo.gif": "/Portfolio/static/media/gif-searcher_demo.f19b411b9dc7ac1617d1.gif",
     "static/media/ecommerce_demo.gif": "/Portfolio/static/media/ecommerce_demo.fc4dff7ed8f8badfc0bf.gif",
@@ -12,13 +12,13 @@
     "static/media/certificado_cienciaDatos_aprendizajeAutomatico_python.pdf": "/Portfolio/static/media/certificado_cienciaDatos_aprendizajeAutomatico_python.33a43799056befd132fb.pdf",
     "static/media/certificado_python_principiantes.pdf": "/Portfolio/static/media/certificado_python_principiantes.90a0f70bfd11ff449fe2.pdf",
     "static/media/certificado_excel_para_todos.pdf": "/Portfolio/static/media/certificado_excel_para_todos.6bab73ed97d1d2415c8f.pdf",
-    "static/media/CV.pdf": "/Portfolio/static/media/CV.f4cc3b64cb5c4d7769e4.pdf",
+    "static/media/CV.pdf": "/Portfolio/static/media/CV.4a8d2132d9af0461d2b8.pdf",
     "index.html": "/Portfolio/index.html",
     "main.63148b3d.css.map": "/Portfolio/static/css/main.63148b3d.css.map",
-    "main.f3f9e814.js.map": "/Portfolio/static/js/main.f3f9e814.js.map"
+    "main.6f8bd33e.js.map": "/Portfolio/static/js/main.6f8bd33e.js.map"
   },
   "entrypoints": [
     "static/css/main.63148b3d.css",
-    "static/js/main.f3f9e814.js"
+    "static/js/main.6f8bd33e.js"
   ]
 }
