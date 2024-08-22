@@ -13,7 +13,7 @@ function Certifications(){
       <div className='certifications-group'>
         <EachCertification reference={p4b} name='Python' description='Python for beginners' company='University of Malaga' />
         <EachCertification reference={DsMl} name='DS & ML' description='Data science and machine learning in Python' company='University of Malaga' />
-        <EachCertification reference={dA} name='Data Analysis' description='Data Analysis in Python' company='University of Malaga' />
+        <EachCertification reference={dA} name='D. Analysis' description='Data Analysis in Python' company='University of Malaga' />
         <EachCertification name='React' description='React for beginners' company='FreeCodeCamp' />
         <EachCertification name='Excel' description='Excel for everyone' company='University of Malaga' />
       </div>
