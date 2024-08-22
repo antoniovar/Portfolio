@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.436e306c.css",
-    "main.js": "/Portfolio/static/js/main.401d8135.js",
+    "main.js": "/Portfolio/static/js/main.79792037.js",
     "static/media/certificado_angular.pdf": "/Portfolio/static/media/certificado_angular.29be567318fefdbf27a2.pdf",
     "static/media/burger-website.png": "/Portfolio/static/media/burger-website.ad09898e628b5e00c8ba.png",
     "static/media/gif-searcher.png": "/Portfolio/static/media/gif-searcher.3d1c9d2b9e9b22ed3282.png",
@@ -14,10 +14,10 @@
     "static/media/to-do-list.png": "/Portfolio/static/media/to-do-list.d75205d7588e2c3736fd.png",
     "index.html": "/Portfolio/index.html",
     "main.436e306c.css.map": "/Portfolio/static/css/main.436e306c.css.map",
-    "main.401d8135.js.map": "/Portfolio/static/js/main.401d8135.js.map"
+    "main.79792037.js.map": "/Portfolio/static/js/main.79792037.js.map"
   },
   "entrypoints": [
     "static/css/main.436e306c.css",
-    "static/js/main.401d8135.js"
+    "static/js/main.79792037.js"
   ]
 }
