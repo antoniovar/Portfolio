@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.436e306c.css",
+    "main.js": "/portfolio/static/js/main.698fa837.js",
+    "static/media/certificado_angular.pdf": "/portfolio/static/media/certificado_angular.29be567318fefdbf27a2.pdf",
+    "static/media/burger-website.png": "/portfolio/static/media/burger-website.ad09898e628b5e00c8ba.png",
+    "static/media/gif-searcher.png": "/portfolio/static/media/gif-searcher.3d1c9d2b9e9b22ed3282.png",
+    "static/media/me.jpeg": "/portfolio/static/media/me.7d138810225e96e1c2be.jpeg",
+    "static/media/certificado_analisis_datos_python.pdf": "/portfolio/static/media/certificado_analisis_datos_python.a041d467601ddb1664fe.pdf",
+    "static/media/certificado_cienciaDatos_aprendizajeAutomatico_python.pdf": "/portfolio/static/media/certificado_cienciaDatos_aprendizajeAutomatico_python.33a43799056befd132fb.pdf",
+    "static/media/certificado_python_principiantes.pdf": "/portfolio/static/media/certificado_python_principiantes.90a0f70bfd11ff449fe2.pdf",
+    "static/media/CV.pdf": "/portfolio/static/media/CV.44ff4d94a8e8d9429ac8.pdf",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.cbd02cc497243f2c92ee.png",
+    "static/media/to-do-list.png": "/portfolio/static/media/to-do-list.d75205d7588e2c3736fd.png",
+    "index.html": "/portfolio/index.html",
+    "main.436e306c.css.map": "/portfolio/static/css/main.436e306c.css.map",
+    "main.698fa837.js.map": "/portfolio/static/js/main.698fa837.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.436e306c.css",
+    "static/js/main.698fa837.js"
+  ]
+}
